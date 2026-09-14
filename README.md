@@ -4,6 +4,10 @@ Serveur [MCP](https://modelcontextprotocol.io/) exposant l'[API Propriété indu
 
 > **Ce projet est indépendant et n'est ni affilié, ni approuvé, ni sponsorisé par l'INPI.**
 
+## Démo
+
+[![mcp-inpi-pi demo](doc/mcp-inpi-pi.png)](doc/mcp-inpi-pi.mp4)
+
 ## Fonctionnalités
 
 | Tool / Resource | Description |
