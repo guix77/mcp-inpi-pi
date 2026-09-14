@@ -6,7 +6,7 @@ Serveur [MCP](https://modelcontextprotocol.io/) exposant l'[API Propriété indu
 
 ## Démo
 
-[![mcp-inpi-pi demo](doc/mcp-inpi-pi.png)](doc/mcp-inpi-pi.mp4)
+[![mcp-inpi-pi demo](doc/mcp-inpi-pi.png)](https://youtu.be/oTb_nEoo00U)
 
 ## Fonctionnalités
 
