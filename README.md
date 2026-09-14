@@ -1,5 +1,7 @@
 # mcp-inpi-pi
 
+[![Listed in france-mcp-servers](https://img.shields.io/badge/listed%20in-france--mcp--servers-blue)](https://github.com/bsab/france-mcp-servers)
+
 Serveur [MCP](https://modelcontextprotocol.io/) exposant l'[API Propriété industrielle de l'INPI](https://www.inpi.fr/ressources/propriete-intellectuelle/acces-aux-api-et-ftp).
 
 > **Ce projet est indépendant et n'est ni affilié, ni approuvé, ni sponsorisé par l'INPI.**
