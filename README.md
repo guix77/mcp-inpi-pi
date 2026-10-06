@@ -97,10 +97,6 @@ docker run -p 3000:3000 \
 
 La couverture de l'API Propriété industrielle par ce serveur MCP est **actuellement limitée** : elle ne couvre ni les brevets, ni les dessins et modèles, et ne couvre les marques que partiellement.
 
-Vous souhaitez étendre cette couverture ou intégrer d'autres sources de données PI dans vos workflows ? Je peux réaliser cette extension sous forme de **prestation sur mesure**, et je propose également la **conception de workflows Claude (Skills) adaptés à votre métier**.
-
-Contactez-moi : [guillaume.duveau@gmail.com](mailto:guillaume.duveau@gmail.com)
-
 ## Avertissement
 
 Les résultats fournis par cet outil sont **indicatifs** et ne constituent pas un avis juridique. Consultez un conseil en propriété industrielle pour toute décision relative au dépôt ou à l'utilisation d'une marque.
@@ -119,6 +115,4 @@ MIT
 
 See French documentation above for setup instructions. The INPI API requires a free account on [data.inpi.fr](https://data.inpi.fr).
 
-Coverage of the Industrial Property API is **currently limited**: patents and designs are not covered, and trademark coverage is partial. Need to extend coverage or integrate other IP data sources into your workflows? I offer **custom development** and **Claude workflow design (Skills) tailored to your business**.
-
-Contact: [guillaume.duveau@gmail.com](mailto:guillaume.duveau@gmail.com)
+Coverage of the Industrial Property API is **currently limited**: patents and designs are not covered, and trademark coverage is partial.
